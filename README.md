@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <body>
     <h2>Survey on the Use of Classification Graphs in the Design of Energy-Efficient Memristor Crossbar Circuits</h2>
