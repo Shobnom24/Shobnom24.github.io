@@ -64,6 +64,6 @@
       In 2018 IEEE International Symposium on High Performance Computer Architecture (HPCA) (pp. 52-65). IEEE.<br>
       [26] Peemen, M., Setio, A.A., Mesman, B. and Corporaal, H., 2013, October. Memory-centric accelerator design for
       convolutional neural networks. In 2013 IEEE 31st international conference on computer design (ICCD) (pp. 13-19).<br>
-      <center>__________________________</center>
+      <p align="center">__________________________</p>
   </body>
 </html>
